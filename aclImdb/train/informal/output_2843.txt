@@ -1,0 +1,1 @@
+getur einhver útskýrt fyrir mér hvernig í fokkanum maður fær x+2+(4/x-2) út úr því að deila x-2 upp í x^2?

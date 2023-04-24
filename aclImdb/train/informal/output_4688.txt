@@ -1,0 +1,1 @@
+Þetta er Twitter að gúddera ekki URL-enkóðað JSON beint í query string sem hluta af gildum tengli, já. Skiljanlega. Breytir því ekki að síðan er einmitt að byggja tenglana sína þannig upp. Sem er galið.

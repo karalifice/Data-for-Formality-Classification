@@ -1,0 +1,1 @@
+ristavél = vél með ristar

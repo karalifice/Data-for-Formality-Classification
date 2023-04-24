@@ -1,0 +1,1 @@
+Til að hægt væri að beita CarbFix tækninni þurfti því að breyta öllum vélasamstæðum virkjunarinnar.
